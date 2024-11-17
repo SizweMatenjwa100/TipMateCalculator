@@ -1,4 +1,4 @@
-# tippycalculator
+# tipmate calculator
 A fully fuctional tip calculator developed in flutter
 
 ## Getting Started
