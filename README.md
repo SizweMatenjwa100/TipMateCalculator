@@ -1,15 +1,13 @@
-# tipmate calculator
-A fully fuctional tip calculator developed in flutter
+#💰 Tip Mate - A Simple Tip Calculator
 
-## Getting Started
+A sleek and easy-to-use Tip Calculator App built using Flutter. Calculate tips effortlessly and split the bill among friends.
 
-This project is a starting point for a Flutter application.
+🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+✅ Calculate tip percentages based on bill amount.
+👥 Split the bill among multiple people.
+🎨 Beautiful, intuitive UI.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠️ Technologies Used
+Flutter: Cross-platform UI framework.
+Dart: Programming language for Flutter.
